@@ -24,15 +24,15 @@ I enjoy refining details in web projects and often spend extra time optimizing a
 
 ## Tech Stack I Work With
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&scale=1.2)
-![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black&scale=1.2)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&scale=1.2)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white&scale=1.2)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&scale=1.2)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&scale=1.2)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&scale=1.2)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white&scale=1.2)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white&scale=1.2)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=40)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=40)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
 
 
 
