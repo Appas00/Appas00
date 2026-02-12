@@ -5,9 +5,7 @@ I have strong skills in both frontend and backend development and enjoy contribu
 
 "Code until you find your solution"! 👋
 
-![Typing](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-
+![Developer Flow](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ## Currently Learning
 - React.js for dynamic and interactive frontend development
