@@ -5,7 +5,8 @@ I have strong skills in both frontend and backend development and enjoy contribu
 
 "Code until you find your solution"! 👋
 
-![Brainstorm](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Typing Code](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)
+
 
 
 ## Currently Learning
