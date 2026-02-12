@@ -5,7 +5,8 @@ I have strong skills in both frontend and backend development and enjoy contribu
 
 "Code until you find your solution"! 👋
 
-![Typing Code](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)
+![Night Coding](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+
 
 
 
