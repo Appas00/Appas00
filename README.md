@@ -20,6 +20,7 @@ I enjoy refining details in web projects and often spend extra time optimizing a
 
 ---
 
+![Uploading 200.gif…]()
 
 ## Tech Stack I Work With
 
