@@ -1,4 +1,4 @@
-# Hi, I'm Appas00
+# Hi, I'm Appas
 
 ![Profile Animation](https://raw.githubusercontent.com/Appas00/repo-name/main/your-gif.gif)
 
