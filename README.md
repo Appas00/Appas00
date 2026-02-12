@@ -4,7 +4,9 @@ I am a Full Stack Web Developer with expertise in building modern, scalable, and
 I have strong skills in both frontend and backend development and enjoy contributing to open-source projects to continuously improve my abilities.
 
 "Code until you find your solution"! 👋
-![Profile Animation](https://raw.githubusercontent.com/Appas00/repo-name/main/your-gif.gif)
+
+![Laptop Coding](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)
+
 
 ## Currently Learning
 - React.js for dynamic and interactive frontend development
