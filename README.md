@@ -3,6 +3,9 @@
 I am a Full Stack Web Developer with expertise in building modern, scalable, and responsive web applications.  
 I have strong skills in both frontend and backend development and enjoy contributing to open-source projects to continuously improve my abilities.
 
+### "Code until you find your solution"! 👋
+![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+
 ## Currently Learning
 - React.js for dynamic and interactive frontend development
 - Flask for backend development
