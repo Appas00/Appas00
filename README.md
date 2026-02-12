@@ -12,7 +12,4 @@
 >  Let's build something amazing together!  
 >  Open to learning, sharing, and contributing to the dev community.
 
-<!---
-Appas00/Appas00 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                
