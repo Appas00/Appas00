@@ -1,5 +1,7 @@
 # Hi, I'm Appas00
 
+![Profile Animation](https://raw.githubusercontent.com/Appas00/repo-name/main/your-gif.gif)
+
 I am a Full Stack Web Developer with expertise in building modern, scalable, and responsive web applications.  
 I have strong skills in both frontend and backend development and enjoy contributing to open-source projects to continuously improve my abilities.
 
@@ -20,8 +22,6 @@ I enjoy refining details in web projects and often spend extra time optimizing a
 
 ---
 
-![Uploading 200.gif…]()
-
 ## Tech Stack I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
@@ -33,6 +33,3 @@ I enjoy refining details in web projects and often spend extra time optimizing a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=40)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoWidth=40)
-
-
-
